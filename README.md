@@ -1,6 +1,8 @@
 # About-me
 <h1 align="center">Hi 👋, I'm Aarthy Ramesh</h1>
-<h3 align="center">Coder | Blogger | Engineering Student</h3>
+<h3 align="center">Zealous Coder | Blogger | Engineering Student</h3>
+
+- 🔭 I’m currently working on [AWS Deepracer(RL)](https://aws.amazon.com/deepracer/)
 
 - 🌱 I’m currently learning **OOPS,AI & ML**
 
@@ -8,7 +10,13 @@
 
 - 📝 I regularly write articles on [https://medium.com/@AarthyR15](https://medium.com/@AarthyR15)
 
+- 💬 Ask me about **Uipath, C language, Writing**
+
 - 📫 How to reach me **aarthy.r2020@kgkite.ac.in**
+
+- 📄 Know about my experiences [https://sites.google.com/kgkite.ac.in/aarthy-r15/resume](https://sites.google.com/kgkite.ac.in/aarthy-r15/resume)
+
+- ⚡ Fun fact **"Simplicity is more complex than complexity" believer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
