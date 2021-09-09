@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://sites.google.com/kgkite.ac.in/aarthy-r15/resume](https://sites.google.com/kgkite.ac.in/aarthy-r15/resume)
 
-- ⚡ Fun fact **"Simplicity is more complex than complexity" believer.**
+- ⚡ **"Simplicity is more complex than complexity" believer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
